@@ -62,5 +62,5 @@ This is an early-stage prototype. Not yet handling onboarding (quit date, cigare
 
 
 
-This app is a support tool, not a medical treatment. If you're trying to quit smoking, consider also talking to a doctor or calling a quitline (in the US: 1-800-QUIT-NOW).
+This app is a support tool, not a medical treatment. If you're trying to quit smoking, consider also talking to a doctor or calling a quitline
 
